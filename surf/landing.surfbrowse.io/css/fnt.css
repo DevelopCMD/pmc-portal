@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'CafeStd';
+    src: url('CafeStd.ttf') format('truetype'); /* Adjust the file format based on your font */
+    /* You can include additional font formats here for better browser compatibility */
+}
